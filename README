@@ -1,0 +1,15 @@
+# Python Calculator Project
+
+This is a beginner-friendly Python calculator project for Class 11 students.
+
+## Features
+- Addition, Subtraction, Multiplication, Division
+- Power calculation
+- Square root
+- Percentage
+- Menu for multiple operations
+- Error handling for invalid input and divide by zero
+
+## How to Run
+1. Download the `calculator.py` file
+2. Run it in Python IDLE or terminal: `python calculator.py`
